@@ -15,7 +15,9 @@ Currently I'm mainly interested in 2 kinds of planets:
 * **Gas Giants** (Jupiter, Saturn, etc.) <br>
   What will happen in the atmospheres where condensable species is heavier than back ground molecules? Convection seems to be suppressed, but there is yet more about moist convection in these atmospheres to explore! <br>
   ![avatar](https://songqiyupku.github.io/images/3Dsimulation.png)
-  
+  <div align=center>
+  <img width = '500' height ='385' src ="https://songqiyupku.github.io/images/3Dsimulation.png"/>
+  </div>
 * **Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)<br>
   Strong convection near the sub-stellar area can significantly reflect back the sun light, reducing the incoming short-wave radiation and then lower the pace of temperature increasing with closer planet-star distance. <br>
   
