@@ -17,4 +17,4 @@ Currently I'm mainly interested in 2 kinds of planets:
   <div  align="center"><img src="/images/3Dsimulation.png" width = "10%" align=center /></div>
 * **Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)
   Strong convection near the sub-stellar area can significantly reflect back the sun light, reducing the incoming short-wave radiation and then lower the pace of temperature increasing with closer planet-star distance. <br>
-  <div  align="center"><iframe src="/images/TLP_2D.gif" width="15%" align=center /></div>
+  
