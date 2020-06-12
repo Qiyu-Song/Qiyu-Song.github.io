@@ -15,5 +15,5 @@ What will happen in the atmospheres where condensable species is heavier than ba
 
 ## Earth-like Tidally-Locked Planets** (To determine the range of habitable zone)
   Strong convection near the sub-stellar area can significantly reflect back the sun light, reducing the incoming short-wave radiation and then lower the pace of temperature increasing with closer planet-star distance. <br>
-<center><img width = '600' height ='150' src ="https://songqiyupku.github.io/images/TLP_2D.gif"/></center>
+<center><img width = '800' height ='200' src ="https://songqiyupku.github.io/images/TLP_2D.gif"/></center>
   
