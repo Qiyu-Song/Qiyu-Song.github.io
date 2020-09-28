@@ -51,8 +51,8 @@ Selected Awards
 * **Merit Student** of Peking University, 2019
 * **Lee Wai Wing Scholarship**, 2019
 * **Merit Student** of Peking University, 2018
-* **Woo Yuk Ting Scholarship**, 2018
-* **Freshman Scholarship** (2nd Class), 2017
+* **Wu Yu Ting Scholarship**, 2018
+* **The Second Prize of Freshman Scholarship**, 2017
 * **Gold Medal (1<sup>st</sup> prize) of Chinese Physics Olympiad (CPhO)** (Top 100 in China), 2016
 
 <br>
