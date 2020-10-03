@@ -67,4 +67,4 @@ Skills
   * Linux system & Supercomputer experiences
 * **Standard Tests**
   * **GRE:** 161 Verbal (88 Percentile); 170 Quantitative (96 Percentile); 3.5 Analytical Writing (39 Percentile)
-  * **TOEFL:** 97/120
+  * **TOEFL:** 111/120 (R30, L30, S21, W28)
