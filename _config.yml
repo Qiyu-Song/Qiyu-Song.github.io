@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qiyu Song"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at Department of Atmospheric and Oceanic Sciences, Peking University"
-  location         : "Beijing, China"
+  bio              : "Ph.D. candidate in the Department of Earth and Planetary Sciences at Harvard University"
+  location         : "Cambridge, MA, US"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "sqy2017@pku.edu.cn"
+  googlescholar    : https://scholar.google.com/citations?user=VYcwkScAAAAJ # "http://yourfullgooglescholarurl.com"
+  email            : "qiyu_song@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0001-7855-8715 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
