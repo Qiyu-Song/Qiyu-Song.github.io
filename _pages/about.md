@@ -25,7 +25,7 @@ Awards
 * Outstanding Graduate, Regular Institutions of Higher Education in Beijing (awarded by the Beijing Municipal Education Commission), 2021
 * Outstanding Graduate, Peking University, 2021
 * Weiming Physics Student (Honors Degree), School of Physics, Peking University, 2021
-* Outstanding Undergraduate Thesis, Dept. of Atmospheric and Oceanic Sciences, Peking University
+* Outstanding Undergraduate Thesis, Dept. of Atmospheric and Oceanic Sciences, Peking University, 2021
 * Honorable Mention of Mathematical Contest for Modeling, 2020
 * Merit Student, Peking University, 2019
 * Lee Wai Wing Scholarship, 2019
